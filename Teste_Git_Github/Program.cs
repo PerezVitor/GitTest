@@ -7,7 +7,8 @@ namespace Teste_Git_Github
         static void Main(string[] args)
         {
             Console.WriteLine("Para este projeto veremos o funcionamento do Git");
-            Console.WriteLine("Linha Adicionada para ver novo commit");
+
+            Console.WriteLine("Olá novo teste de novo commit com exclusão de outra linha");
 
             Console.ReadLine();
         }
